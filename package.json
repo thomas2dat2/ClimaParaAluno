@@ -1,0 +1,11 @@
+{
+  "name": "clima-app",
+  "version": "1.0.0",
+  "description": "API Node + frontend que consome a API pública Open-Meteo para mostrar o clima de uma cidade",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
